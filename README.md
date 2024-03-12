@@ -5,7 +5,7 @@ Solução para o teste de estágio da empresa Target Sistemas
 	
 	Respostas do teste 2:
 	Caso 1: para 5 é True
-	Caso 1: para 25 é False
+	Caso 2: para 25 é False
 
 	Respostas do teste 3:
 	A -> 9
@@ -23,4 +23,5 @@ Solução para o teste de estágio da empresa Target Sistemas
 	
 	Com isso, é possível identificar as três lâmpadas com apenas duas idas à sala.
 
-	Resposta do teste 5: a inversão do texto Texto de Teste é etseT ed otxeT
+	Resposta do teste 5:
+        Caso 1: a inversão do texto Texto de Teste é etseT ed otxeT
