@@ -1,4 +1,4 @@
-# Solve-TesteEst-gioTargetSistemas
+# Solve- Teste Estágio Target Sistemas
 Solução para o teste de estágio da empresa Target Sistemas
 	
 	Resposta do teste 1: A soma para o indice 13 é: 91.
