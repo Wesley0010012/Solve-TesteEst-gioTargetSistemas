@@ -1,4 +1,4 @@
-from num2word import word
+from num2words import num2words
 
 class Teste3:
     def a(self, posicao):
@@ -18,7 +18,9 @@ class Teste3:
         return resultado
 
     def e(self, posicao):
-        a, b, c = 1
+        a = 1
+        b = 1
+        c = 1
 
         if posicao == 1 or posicao == 2:
             return 1
@@ -33,10 +35,13 @@ class Teste3:
     def f(self, posicao):
         counter = 0
         ultimo = 0
+        number = 0
 
         while counter < posicao:
-            if(word(counter, lang = 'pt-BR')[0] == "d"):
-                ultimo = counter 
+            if(num2words(number, lang = 'pt')[0] == 'd'):
+                ultimo = number
                 counter += 1
+            number += 1
+                
 
         return ultimo
