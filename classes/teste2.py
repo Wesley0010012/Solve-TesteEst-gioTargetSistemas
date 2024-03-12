@@ -2,7 +2,9 @@
 
 class Teste2:
     def executar(self, numero):
-        a, b, c = 1
+        a = 1
+        b = 1
+        c = 1
 
         while(True):
             c = a + b
